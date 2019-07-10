@@ -1,0 +1,41 @@
+{
+  "downloadapk": false,
+  "promocode": false,
+  "cleancode": false,
+  "errorcode": false,
+  "onlyapk": false,
+  "update": true,
+  "forzar": true,
+  "aDFHF": true,
+  "bNER": true,
+  "ads": 2,
+  "adsB": 6,
+  "order": 6,
+  "p": "15$ USD - HASTA EL 11/07/19",
+  "pL": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HTJFQUYM6Q8LU",
+  "pL2": "https://biz.payulatam.com/L0b360bC56E7C2B",
+  "publicacion": "https://www.facebook.com/DeveloperXploiT/posts/431784864340456",
+  "urlWeb": "https://developerxploitmovie.blogspot.com/2019/04/instalacion-manual.html",
+  "linkup": "https://www.dropbox.com/s/lyxhsouybvggrqb/app-release.apk?dl=1",
+  "nombre": "Movie.",
+  "id_store": "com.developerxploit.movie",
+  "data": "AfLicVzRFqbzI8KWykh2xC1lJH6u2XJdB9J38_rzEd9FdWp5WlYzUldhaW96ms0BeJ4zYF4i2Cj51gV-",
+  "dt": "AbnMVTIY4vszudOr6OT1f1q4aVOuAn4Bu4U1OGQGadjyc0tleUlUaHBKMUVDviUzIMGeyCNyQ1zidDL4",
+  "version": "1.0.0",
+  "cambios": [
+    "",
+    "",
+    ""
+  ],
+  "add": [
+    "A: Animes    | An: Animación",
+    "P: Películas | S:  Series",
+    "N: Netflix   | T:  Telenovelas",
+    "U: Películas Últimas Agregadas",
+    "CAM: Grabadas En Cine",
+    "UP: Actualizado",
+    "",
+    "",
+    ""
+  ]
+}
