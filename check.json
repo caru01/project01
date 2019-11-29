@@ -1,7 +1,7 @@
 {
   "downloadapk": false,
-  "promocode": false,
-  "cleancode": true,
+  "promocode": true,
+  "cleancode": false,
   "errorcode": false,
   "onlyapk": false,
   "update": true,
